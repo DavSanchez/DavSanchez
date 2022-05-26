@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavSanchez&theme=tokyonight&show_icons=true)](https://github.com/DavSanchez)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavSanchez&theme=tokyonight&hide=TeX,HTML,Swift,Verilog&langs_count=5)](https://github.com/DavSanchez)
+
 <!--
 **DavSanchez/DavSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
