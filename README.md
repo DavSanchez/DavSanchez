@@ -4,7 +4,7 @@
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=DavSanchez&theme=transparent&show_icons=true&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavSanchez&theme=transparent&hide=TeX,HTML,Swift,Verilog,Nu,Emacs%10Lisp&langs_count=5&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavSanchez&theme=transparent&hide=TeX,HTML,Swift,Verilog,Nu,Emacs%20Lisp&langs_count=5&layout=compact" />
 </a>
 
 <!--
